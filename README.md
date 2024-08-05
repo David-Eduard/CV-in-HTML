@@ -1,0 +1,1 @@
+I made a CV using HTML and CSS as a college project. This CV includes information about myself as well as some JavaScript elements, such as changing the background and displaying the current date and time.
